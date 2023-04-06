@@ -1,0 +1,129 @@
+{
+    "stores": [
+      {
+        "id": 1,
+        "name": "Supermarket 1",
+        "city": "Tel Aviv",
+        "items": [
+          {
+            "id": 1,
+            "name": "Milk",
+            "price": 5.99,
+            "salePrice": 4.99
+          },
+          {
+            "id": 2,
+            "name": "Bread",
+            "price": 3.49,
+            "salePrice": 2.99
+          },
+          {
+            "id": 3,
+            "name": "Eggs",
+            "price": 7.99,
+            "salePrice": 6.49
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Supermarket 2",
+        "city": "Jerusalem",
+        "items": [
+          {
+            "id": 1,
+            "name": "Milk",
+            "price": 6.99,
+            "salePrice": 5.99
+          },
+          {
+            "id": 2,
+            "name": "Bread",
+            "price": 4.99,
+            "salePrice": 3.99
+          },
+          {
+            "id": 3,
+            "name": "Eggs",
+            "price": 8.99,
+            "salePrice": 7.49
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Supermarket 3",
+        "city": "Haifa",
+        "items": [
+          {
+            "id": 1,
+            "name": "Milk",
+            "price": 5.49,
+            "salePrice": 4.49
+          },
+          {
+            "id": 2,
+            "name": "Bread",
+            "price": 3.99,
+            "salePrice": 3.49
+          },
+          {
+            "id": 3,
+            "name": "Eggs",
+            "price": 7.49,
+            "salePrice": 6.49
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Supermarket 4",
+        "city": "Be'er Sheva",
+        "items": [
+          {
+            "id": 1,
+            "name": "Milk",
+            "price": 5.49,
+            "salePrice": 4.49
+          },
+          {
+            "id": 2,
+            "name": "Bread",
+            "price": 3.99,
+            "salePrice": 3.49
+          },
+          {
+            "id": 3,
+            "name": "Eggs",
+            "price": 7.49,
+            "salePrice": 6.49
+          }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Supermarket 5",
+        "city": "Rishon Lezion",
+        "items": [
+          {
+            "id": 1,
+            "name": "Milk",
+            "price": 6.49,
+            "salePrice": 5.49
+          },
+          {
+            "id": 2,
+            "name": "Bread",
+            "price": 4.49,
+            "salePrice": 3.99
+          },
+          {
+            "id": 3,
+            "name": "Eggs",
+            "price": 6.49,
+            "salePrice": 5.49
+          }
+        ]
+    }
+]
+}
